@@ -1,4 +1,5 @@
 📊 Netflix Data Analysis
+
 📌 Project Overview
 
 This project analyzes the Netflix dataset to uncover meaningful insights about content distribution, production trends, and country-wise contributions. Using Python and data visualization libraries, we explore patterns in Movies and TV Shows available on Netflix.
